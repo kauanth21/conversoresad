@@ -71,7 +71,7 @@ Este projeto tem como objetivo controlar LEDs e um display **OLED SSD1306** util
 
 ## Espaço para Vídeo de Demonstração
 
-(ESPAÇO PARA LINK)
+(https://www.youtube.com/watch?si=lb2tKO9xbECpoMtp&v=iOzGrEAsoQQ&feature=youtu.be)
 
 👨‍💻 Autor
 Kauan Teixeira da Hora
